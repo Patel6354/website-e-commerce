@@ -660,7 +660,7 @@ section {
 
 }
 
-@media (max-width:768px) {
+@media (max-width:768vw) {
 
     #menu-btn {
         display: inline-block;
