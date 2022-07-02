@@ -644,7 +644,7 @@ section {
 
 /* media queries  */
 
-@media (max-width:991px) {
+@media (max-width:991vw) {
 
     html {
         font-size: 55%;
@@ -660,7 +660,7 @@ section {
 
 }
 
-@media (max-width:768vw) {
+@media (max-width:768px) {
 
     #menu-btn {
         display: inline-block;
